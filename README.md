@@ -22,3 +22,4 @@ python youtube_shorts_gesture_313.py
 # Gunakan gesture:
 Gerakkan tangan ke atas: Next Shorts, Gerakkan tangan ke bawah: Previous Shorts, Tunjukkan telapak tangan ke kamera: Play/Paus
 Tunjukkan telapak tangan ke kamera: Play/Pause
+<img width="1920" height="1080" alt="Screenshot (400)" src="https://github.com/user-attachments/assets/345440f3-ded7-4931-8365-97085f0225d3" />

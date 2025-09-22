@@ -20,6 +20,6 @@ youtube_shorts_gesture_313.py
 dan jalankan file nya dengan terminal windows kalian
 python youtube_shorts_gesture_313.py
 # Gunakan gesture:
-gerakkan tangan ke atas: next shorts, gerakkan tangan ke bawah: previous shorts, tunjukkan telapak tangan ke kamera: play/paus
+gerakkan tangan ke atas: next shorts, gerakkan tangan ke bawah: previous shorts, tunjukkan telapak tangan ke kamera: play/pause
 
 
